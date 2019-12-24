@@ -151,13 +151,17 @@ footer{
     font-family: Arial, sans-serif;
     color: #5f6368;
     font-size: 14px;
+    border
 }
 
-#footizq, #footder{
+#footizq{
     list-style: none;
     align-items: center;
+} 
 
-
+#footder{
+    list-style: none;
+    align-items: center;
 }
 #footizq li{
     padding-left: 27px;
